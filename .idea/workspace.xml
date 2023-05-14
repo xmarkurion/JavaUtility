@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3e1c37e-3b45-477c-9911-2da129da8492" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/markurion/strings/clipboard/MClipboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/markurion/strings/randomizer/Randomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/markurion/settings/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/markurion/settings/MyConfigFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +37,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Coding/java/MarkurionUtility/MarkurionUtility/src/main/java/markurion/properties",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Coding\java\MarkurionUtility\MarkurionUtility\src\main\java\markurion\properties" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="markurion.settings" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +58,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681332234169</updated>
-      <workItem from="1681332235459" duration="951000" />
+      <workItem from="1681332235459" duration="1287000" />
+      <workItem from="1682367812912" duration="93000" />
+      <workItem from="1684057535306" duration="1015000" />
     </task>
     <servers />
   </component>
